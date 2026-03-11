@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マジカルアイオライト",
+  "base_artist": "カミサマパレード",
+  "createdAt": "2026-03-11T16:53:53.711877Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジカルアイオライト",
+      "artist": "カミサマパレード",
+      "has_synced": false,
+      "path": "select/pl_01_マジカルアイオライト_カミサマパレード.txt"
+    }
+  ]
+}
